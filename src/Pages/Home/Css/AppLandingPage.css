@@ -1,0 +1,60 @@
+.great{
+    font-family: "Poppins", sans-serif;
+    color: #ff6d3c;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    font-size: 127px;
+    background: transparent;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #ff6d3c;
+}
+.app-landing-page{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;
+    color: #333366;
+    font-size: 60px;
+}
+p {
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #333366;
+}
+.demo-button {
+    -webkit-box-shadow: 0px 15px 30px 0px rgb(255 115 140 / 20%);
+    box-shadow: 0px 15px 30px 0px rgb(255 115 140 / 20%);
+    background: #ff6d3c;
+    border: 2px solid transparent;
+    color: #ffffff;
+    padding: 12px 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: inline-block;
+    border-radius: 8px;
+    -webkit-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    text-transform: capitalize;
+}
+.download-button {
+    background: transparent;
+    border: 2px solid #ff6d3c;
+    color: #333366;
+    padding: 12px 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: inline-block;
+    border-radius: 8px;
+    -webkit-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    text-transform: capitalize;
+}

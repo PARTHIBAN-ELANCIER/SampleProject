@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.multipleBackground {
+  background-image: 'url(h-shape4.png)', 'url(h-shape1.png)' !important;
+  
+	background-position: left, right;
+	background-repeat:no-repeat, repeat-x;
+}
+.back {
+  background-image: 
+url(https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6-1.png), 
+url(https://media.geeksforgeeks.org/wp-content/uploads/backgroundimage-1.png);
+
+  background-position: center, center;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 400px 200px, 500px 400px;
+  padding:25px;
+  height:400px;
+}

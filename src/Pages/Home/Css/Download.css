@@ -1,0 +1,26 @@
+.download{
+    line-height: 1;
+    text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #ff6d3c;
+    font-weight: 700;
+    margin-bottom: 5px;
+    opacity: 0.5;
+    font-family: "Poppins", sans-serif;
+    font-size: 60px;
+}
+.download-header {
+    color: #333366;
+    font-size: 48px;
+    font-weight: 700;
+}
+p {
+    text-align: left;
+    color: #333366 !important;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    text-transform: capitalize;
+}
